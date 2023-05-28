@@ -4,8 +4,14 @@
 # <span id='Papers'>Papers</span>
 ## 2023
 + Hao Zhang, Feng Li, Xueyan Zou, Shilong Liu, Chunyuan Li, Jianfeng Gao, Jianwei Yang, Lei Zhang. **A Simple Framework for Open-Vocabulary Segmentation and Detection.** arXiv 2023.[[paper]](https://arxiv.org/abs/2303.08131) [[code]](https://github.com/IDEA-Research/OpenSeeD)
++ Relja Arandjelović, Alex Andonian, Arthur Mensch, Olivier J. Hénaff, Jean-Baptiste Alayrac, Andrew Zisserman. **Three Ways to Improve Feature Alignment for Open Vocabulary Eetection.** arXiv 2023. [[paper]](https://arxiv.org/abs/2303.13518)
++ Hwanjun Song, Jihwan Bang. **Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection.** arXiv 2023. [[paper]](https://arxiv.org/abs/2303.14386)
++ Han-Cheol Cho, Won Young Jhoo, Wooyoung Kang, Byungseok Roh. **Open-Vocabulary Object Detection using Pseudo Caption Labels.** arXiv 2023. [[paper]](https://arxiv.org/abs/2303.13040)
++ Xiaoshi Wu, Feng Zhu, Rui Zhao, Hongsheng Li. **CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching.** CVPR 2023. [[paper]](https://arxiv.org/abs/2303.13076) [[code]](https://github.com/tgxs002/CORA)
 + Luting Wang, Yi Liu, Penghui Du, Zihan Ding, Yue Liao, Qiaosong Qi, Biaolong Chen, Si Liu. **Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection.** CVPR 2023. [[paper]](https://arxiv.org/abs/2303.05892) 
 + Size Wu, Wenwei Zhang, Sheng Jin, Wentao Liu, Chen Change Loy. **Aligning Bag of Regions for Open-Vocabulary Object Detection.** CVPR 2023. [[paper]](https://arxiv.org/abs/2302.13996) [[code]](https://github.com/wusize/ovdet)
++ Dahun Kim, Anelia Angelova, Weicheng Kuo. **Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers.** CVPR 2023. [[paper]](https://arxiv.org/abs/2305.07011)
++ Lewei Yao, Jianhua Han, Xiaodan Liang, Dan Xu, Wei Zhang, Zhenguo Li, Hang Xu. **DetCLIPv2: Scalable Open-Vocabulary Object Detection Pre-training via Word-Region Alignment.** CVPR 2023. [[paper]](https://arxiv.org/abs/2304.04514)
 + Weicheng Kuo, Yin Cui, Xiuye Gu, AJ Piergiovanni, Anelia Angelova. **F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models.** ICLR 2023. [[paper]](https://openreview.net/forum?id=MIMwy4kh9lf) [[code]](https://sites.google.com/view/f-vlm/home)
 ## 2022
 + Tao Wang, Nan Li. **Learning to Detect and Segment for Open Vocabulary Object Detection.** arXiv 2022. [[paper]](https://arxiv.org/abs/2212.12130)
