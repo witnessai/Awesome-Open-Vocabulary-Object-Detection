@@ -3,7 +3,9 @@
 
 # <span id='Papers'>Papers</span>
 ## 2023
-+ Hao Zhang, Feng Li, Xueyan Zou, Shilong Liu, Chunyuan Li, Jianfeng Gao, Jianwei Yang, Lei Zhang. **A Simple Framework for Open-Vocabulary Segmentation and Detection.** arXiv 2023.[[paper]](https://arxiv.org/abs/2303.08131) [[code]](https://github.com/IDEA-Research/OpenSeeD)
++ Matthias Minderer, Alexey Gritsenko, Neil Houlsby. **Scaling Open-Vocabulary Object Detection.** arxiv 2023. [[paper]](https://arxiv.org/abs/2306.09683)
++ Prannay Kaul, Weidi Xie, Andrew Zisserman. **Multi-Modal Classifiers for Open-Vocabulary Object Detection.** ICML 2023. [[paper]](https://arxiv.org/abs/2306.05493)[[code]](https://github.com/prannaykaul/mm-ovod)
++ Hao Zhang, Feng Li, Xueyan Zou, Shilong Liu, Chunyuan Li, Jianfeng Gao, Jianwei Yang, Lei Zhang. **A Simple Framework for Open-Vocabulary Segmentation and Detection.** arXiv 2023. [[paper]](https://arxiv.org/abs/2303.08131) [[code]](https://github.com/IDEA-Research/OpenSeeD)
 + Relja Arandjelović, Alex Andonian, Arthur Mensch, Olivier J. Hénaff, Jean-Baptiste Alayrac, Andrew Zisserman. **Three Ways to Improve Feature Alignment for Open Vocabulary Eetection.** arXiv 2023. [[paper]](https://arxiv.org/abs/2303.13518)
 + Hwanjun Song, Jihwan Bang. **Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection.** arXiv 2023. [[paper]](https://arxiv.org/abs/2303.14386)
 + Han-Cheol Cho, Won Young Jhoo, Wooyoung Kang, Byungseok Roh. **Open-Vocabulary Object Detection using Pseudo Caption Labels.** arXiv 2023. [[paper]](https://arxiv.org/abs/2303.13040)
