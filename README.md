@@ -3,6 +3,10 @@
 
 # <span id='Papers'>Papers</span>
 ## 2023
++ Shiyu Zhao, Samuel Schulter, Long Zhao, Zhixing Zhang, Vijay Kumar B. G, Yumin Suh, Manmohan Chandraker, Dimitris N. Metaxas. **Improving Pseudo Labels for Open-Vocabulary Object Detection.** arxiv 2023. [[paper]](https://arxiv.org/abs/2308.06412)
++ Chaoyang Zhu, Long Chen. **A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future.** arxiv 2023. [[paper]](https://arxiv.org/abs/2307.09220)
++ Hengcan Shi, Munawar Hayat, Jianfei Cai. **Unified Open-Vocabulary Dense Visual Prediction.** arxiv 2023. [[paper]](https://arxiv.org/abs/2307.08238)
++ Hengcan Shi, Munawar Hayat, Jianfei Cai. **Open-Vocabulary Object Detection via Scene Graph Discovery.** arxiv 2023. [[paper]](https://arxiv.org/abs/2307.03339)
 + Matthias Minderer, Alexey Gritsenko, Neil Houlsby. **Scaling Open-Vocabulary Object Detection.** arxiv 2023. [[paper]](https://arxiv.org/abs/2306.09683)
 + Prannay Kaul, Weidi Xie, Andrew Zisserman. **Multi-Modal Classifiers for Open-Vocabulary Object Detection.** ICML 2023. [[paper]](https://arxiv.org/abs/2306.05493)[[code]](https://github.com/prannaykaul/mm-ovod)
 + Hao Zhang, Feng Li, Xueyan Zou, Shilong Liu, Chunyuan Li, Jianfeng Gao, Jianwei Yang, Lei Zhang. **A Simple Framework for Open-Vocabulary Segmentation and Detection.** arXiv 2023. [[paper]](https://arxiv.org/abs/2303.08131) [[code]](https://github.com/IDEA-Research/OpenSeeD)
