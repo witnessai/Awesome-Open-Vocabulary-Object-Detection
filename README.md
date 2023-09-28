@@ -3,6 +3,11 @@
 
 # <span id='Papers'>Papers</span>
 ## 2023
++ **DE-ViT**: Xinyu Zhang, Yuting Wang, Abdeslam Boularias. **Detect Every Thing with Few Examples.** GCPR 2023. [[paper]](https://arxiv.org/abs/2309.12969) [[code]](https://github.com/mlzxy/devit)
++ **EdaDet**: Cheng Shi, Sibei Yang. **EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment.** ICCV 2023. [[paper]](https://arxiv.org/abs/2309.01151) 
++ Jincheng Li, Chunyu Xie, Xiaoyu Wu, Bin Wang, Dawei Leng. **What Makes Good Open-Vocabulary Detector: A Disassembling Perspective.** KDD workshop 2023. [[paper]](https://arxiv.org/abs/2309.00227)
++ Yifan Xu, Mengdan Zhang, Xiaoshan Yang, Changsheng Xu. **Exploring Multi-Modal Contextual Knowledge for Open-Vocabulary Object Detection.** arxiv 2023. [[paper]](https://arxiv.org/abs/2308.15846)
++ **OVDEval**: Yiyang Yao, Peng Liu, Tiancheng Zhao, Qianqian Zhang, Jiajia Liao, Chunxin Fang, Kyusong Lee, Qing Wang. **How to Evaluate the Generalization of Detection? A Benchmark for Comprehensive Open-Vocabulary Detection.** arxiv 2023. [[paper]](https://arxiv.org/abs/2308.13177) [[code]](https://github.com/om-ai-lab/OVDEval)
 + **SAS-Det**: Shiyu Zhao, Samuel Schulter, Long Zhao, Zhixing Zhang, Vijay Kumar B. G, Yumin Suh, Manmohan Chandraker, Dimitris N. Metaxas. **Improving Pseudo Labels for Open-Vocabulary Object Detection.** arxiv 2023. [[paper]](https://arxiv.org/abs/2308.06412)
 + Chaoyang Zhu, Long Chen. **A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future.** arxiv 2023. [[paper]](https://arxiv.org/abs/2307.09220)
 + **UOVN**: Hengcan Shi, Munawar Hayat, Jianfei Cai. **Unified Open-Vocabulary Dense Visual Prediction.** arxiv 2023. [[paper]](https://arxiv.org/abs/2307.08238)
