@@ -4,6 +4,8 @@
 # <span id='Papers'>Papers</span>
 ## 2023
 + **DE-ViT**: Xinyu Zhang, Yuting Wang, Abdeslam Boularias. **Detect Every Thing with Few Examples.** GCPR 2023. [[paper]](https://arxiv.org/abs/2309.12969) [[code]](https://github.com/mlzxy/devit)
++ **DITO**: Dahun Kim, Anelia Angelova, Weicheng Kuo. **Detection-Oriented Image-Text Pretraining for Open-Vocabulary Detection.** arxiv 2023. [[paper]](https://paperswithcode.com/paper/detection-oriented-image-text-pretraining-for) [[code]](https://github.com/google-research/google-research/tree/master/fvlm/dito)
++ **CFM-ViT**: Dahun Kim, Anelia Angelova, Weicheng Kuo. **Contrastive Feature Masking Open-Vocabulary Vision Transformer.** ICCV 2023. [[paper]](https://paperswithcode.com/paper/contrastive-feature-masking-open-vocabulary)
 + **EdaDet**: Cheng Shi, Sibei Yang. **EdaDet: Open-Vocabulary Object Detection Using Early Dense Alignment.** ICCV 2023. [[paper]](https://arxiv.org/abs/2309.01151) 
 + Jianzong Wu, Xiangtai Li, Henghui Ding, Xia Li, Guangliang Cheng, Yunhai Tong, Chen Change Loy. **Betrayed by Captions: Joint Caption Grounding and Generation for Open Vocabulary Instance Segmentation.** ICCV 2023. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Betrayed_by_Captions_Joint_Caption_Grounding_and_Generation_for_Open_ICCV_2023_paper.pdf) [[code]](https://github.com/jianzongwu/betrayed-by-captions)
 + Jincheng Li, Chunyu Xie, Xiaoyu Wu, Bin Wang, Dawei Leng. **What Makes Good Open-Vocabulary Detector: A Disassembling Perspective.** KDD workshop 2023. [[paper]](https://arxiv.org/abs/2309.00227)
