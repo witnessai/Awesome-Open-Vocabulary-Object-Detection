@@ -1,5 +1,9 @@
 # Awesome-Open-Vocabulary-Object-Detection
 
+# Contact
+```
+scottn@foxmail.com
+```
 
 # <span id='Papers'>Papers</span>
 ## 2023
