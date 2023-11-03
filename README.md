@@ -3,6 +3,7 @@
 
 # <span id='Papers'>Papers</span>
 ## 2023
++ **CoDet**: Chuofan Ma, Yi Jiang, Xin Wen, Zehuan Yuan, Xiaojuan Qi. **CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection.** NeurIPS 2023. [[paper]](https://arxiv.org/abs/2310.16667) [[code]](https://github.com/CVMI-Lab/CoDet)
 + **DE-ViT**: Xinyu Zhang, Yuting Wang, Abdeslam Boularias. **Detect Every Thing with Few Examples.** GCPR 2023. [[paper]](https://arxiv.org/abs/2309.12969) [[code]](https://github.com/mlzxy/devit)
 + **DITO**: Dahun Kim, Anelia Angelova, Weicheng Kuo. **Detection-Oriented Image-Text Pretraining for Open-Vocabulary Detection.** arxiv 2023. [[paper]](https://paperswithcode.com/paper/detection-oriented-image-text-pretraining-for) [[code]](https://github.com/google-research/google-research/tree/master/fvlm/dito)
 + **CFM-ViT**: Dahun Kim, Anelia Angelova, Weicheng Kuo. **Contrastive Feature Masking Open-Vocabulary Vision Transformer.** ICCV 2023. [[paper]](https://paperswithcode.com/paper/contrastive-feature-masking-open-vocabulary)
