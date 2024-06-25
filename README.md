@@ -6,8 +6,9 @@ scottn@foxmail.com
 ```
 
 # <span id='Papers'>Papers</span>
+## 2024
++ Lorenzo Bianchi, Fabio Carrara, Nicola Messina, Claudio Gennaro, Fabrizio Falchi. **The Devil is in the Fine-Grained Details: Evaluating Open-Vocabulary Object Detectors for Fine-Grained Understanding.** CVPR 2024. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bianchi_The_Devil_is_in_the_Fine-Grained_Details_Evaluating_Open-Vocabulary_Object_CVPR_2024_paper.pdf) [[code]](https://lorebianchi98.github.io/FG-OVD/)
 ## 2023
-+ Lorenzo Bianchi, Fabio Carrara, Nicola Messina, Claudio Gennaro, Fabrizio Falchi. **The Devil is in the Fine-Grained Details: Evaluating Open-Vocabulary Object Detectors for Fine-Grained Understanding.** arxiv 2023. [[paper]](https://arxiv.org/abs/2311.17518)
 + **MIC**: Zhao Wang, Aoxue Li, Fengwei Zhou, Zhenguo Li, Qi Dou. **Open-Vocabulary Object Detection with Meta Prompt Representation and Instance Contrastive Optimization.** BMVC 2023. [[paper]](https://proceedings.bmvc2023.org/93/)
 + **CoDet**: Chuofan Ma, Yi Jiang, Xin Wen, Zehuan Yuan, Xiaojuan Qi. **CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection.** NeurIPS 2023. [[paper]](https://arxiv.org/abs/2310.16667) [[code]](https://github.com/CVMI-Lab/CoDet)
 + **DE-ViT**: Xinyu Zhang, Yuting Wang, Abdeslam Boularias. **Detect Every Thing with Few Examples.** GCPR 2023. [[paper]](https://arxiv.org/abs/2309.12969) [[code]](https://github.com/mlzxy/devit)
